@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Resipi Melayu",
+  "description": "An AI-powered recipe generator for Malay cuisine. Users input the ingredients they have, and the application uses the Gemini API to generate a unique and delicious Malay food recipe.",
+  "requestFramePermissions": []
+}
